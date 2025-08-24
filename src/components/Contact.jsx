@@ -38,7 +38,7 @@ const Contact = () => {
 		<h2>Where to Find Us</h2>
 		
 		<div>
-		 <h3>Visit Our Bar</h3>
+		 <h3>Visit Our Juice Bar</h3>
 		 <p>Kafil Uddin Plaza, Jalesharitola, Bogura. </p>
 		</div>
 		
