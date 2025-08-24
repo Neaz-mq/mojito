@@ -1,6 +1,6 @@
 # 🍸 Mojito — React + Vite + GSAP + Tailwind
 
-A stunning, scroll-driven cocktail website built with React (Vite), Tailwind CSS, and GSAP. This project showcases advanced animation techniques: SplitText-style reveals, buttery parallax, ScrollTrigger timelines, pinned sections, scroll-synced video, image masking, an animated carousel, and seamless cross-section narratives. Fully responsive and production-ready.
+A stunning, scroll-driven Mojito website built with React (Vite), Tailwind CSS, and GSAP. This project showcases advanced animation techniques: SplitText-style reveals, buttery parallax, ScrollTrigger timelines, pinned sections, scroll-synced video, image masking, an animated carousel, and seamless cross-section narratives. Fully responsive and production-ready.
 
 ## ✨ Highlights
 
