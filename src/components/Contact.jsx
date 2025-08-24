@@ -39,13 +39,13 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <p>Kafil Uddin Plaza, Jalesharitola, Bogura. </p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>+88013-03660481</p>
+		 <p>neazmorshed666@gmail.com</p>
 		</div>
 		
 		<div>
